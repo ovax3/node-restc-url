@@ -1,0 +1,37 @@
+{
+  "name": "restc-url",
+  "version": "0.1.0",
+  "description": "basic RestC url parsing plugin",
+  "keywords": [
+    "rest",
+    "restful",
+    "client",
+    "composition",
+    "plugin",
+    "url",
+    "parse"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neo9/node-restc-url.git"
+  },
+  "bugs": {
+    "url": "https://github.com/neo9/node-restc-url/issues"
+  },
+  "licences": {
+    "type": "MIT"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "author": "ovmjm <ov@annexe3.com>",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "restc": "~0.1.3"
+  }
+}
